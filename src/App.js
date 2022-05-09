@@ -13,8 +13,8 @@ function App() {
           Hi my name is jhonny
         </p>
         <a
-          className="App-link"
-          href="https://reactjs.org"
+          className="my-github"
+          href="https://github.com/newlog16"
           target="_blank"
           rel="noopener noreferrer"
         >
