@@ -5,7 +5,6 @@ function Body() {
                 This is Jhonny's body
             </p>
         </h2>
-
     );
 }
 

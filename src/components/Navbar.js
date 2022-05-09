@@ -5,7 +5,6 @@ function Navbar() {
                 And those are Jhonny's feet
             </p>
         </h3>
-
     );
 }
 

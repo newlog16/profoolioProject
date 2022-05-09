@@ -5,7 +5,6 @@ function Title() {
                 Hi my name is Jhonny
             </p>
         </h1>
-
     );
 }
 
