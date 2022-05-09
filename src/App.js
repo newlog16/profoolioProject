@@ -1,5 +1,7 @@
 import './App.css';
 import Title from './components/Title.js'
+import Body from './components/Body.js'
+import Navbar from './components/Navbar';
 
 function App() {
   return (
@@ -8,10 +10,11 @@ function App() {
         <Title />
       </header>
       <body>
-        <h2>
-          
-        </h2>
+        <Body />
       </body>
+      <footer>
+        <Navbar />
+      </footer>
     </div>
   );
 }
