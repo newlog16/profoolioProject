@@ -2,7 +2,7 @@ function Title() {
     return (
         <h1>
             <p>
-                Hi my name is Jhonny
+                This is the main header of my page
             </p>
         </h1>
     );

@@ -2,7 +2,7 @@ function Body() {
     return (
         <h2>
             <p>
-                This is Jhonny's body
+                This is the main content of this speciific page.
             </p>
         </h2>
     );

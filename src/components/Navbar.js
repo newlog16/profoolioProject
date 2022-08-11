@@ -2,7 +2,7 @@ function Navbar() {
     return (
         <h3>
             <p>
-                And those are Jhonny's feet
+                This is a spacae used for a navbar(if i use other pages).
             </p>
         </h3>
     );
