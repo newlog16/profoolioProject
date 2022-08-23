@@ -1,0 +1,11 @@
+div.navBar {
+    background-color: grey;
+    z-index: 9;
+    position: fixed;
+}
+
+div.content {
+    background-color: silver;
+    z-index: 90;
+    padding-top: 0rem;
+}

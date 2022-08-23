@@ -1,10 +1,12 @@
+import React from "react";
+
 function Title() {
     return (
-        <h1>
-            <p>
+        <div className="navBar">
+            <div>
                 This is the main header of my page
-            </p>
-        </h1>
+            </div>
+        </div>
     );
 }
 
