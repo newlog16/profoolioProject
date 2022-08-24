@@ -1,18 +1,20 @@
-import React from "react";
+import { BrowserRouter } from "react-router-dom"
 
 function Title() {
     return (
-        <div className="navBar">
-            <div className="navItem">
-                item
-            </div>
-            <div className="navItem">
-                item
-            </div>
-            <div className="navItem">
-                item
-            </div>
-        </div>
+        <BrowserRouter>
+            <div className="navBar">
+                <div className="navItem">
+                    item
+                </div>
+                <div className="navItem">
+                    item
+                </div>
+                <div className="navItem">
+                    item
+                </div>
+            </div >
+        </BrowserRouter>
     );
 }
 
