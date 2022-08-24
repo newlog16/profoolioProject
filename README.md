@@ -1,7 +1,22 @@
-# profoolioProject
+# profoolioProject.
+(eu escrevi errado)
 
-This is the front-page of my personal project.
+## Essse projeto foi criado com o objetivo de rever o que ja foi ensinado durante o curso da Trybe.
 
-[placeholder]
-(i have to put instructions on how to run this project locally)
-(i also have to make a proper introduction to my project)
+### Vejamos um pouco sobre o projeto.
+
+
+### `Como rodar o projeto`
+
+Primeiro clone o meu repositorio copiando o comando:
+
+```bash
+git@github.com:newlog16/profoolioProject.git
+```
+E execute ele em um terminal.
+
+Apos ter sido clonado o repositorio use o comando:
+```bash
+git checkout master
+```
+Lá estará o codigo do projeto.
