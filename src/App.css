@@ -2,10 +2,31 @@ div.navBar {
     background-color: grey;
     z-index: 9;
     position: fixed;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 2rem;
 }
 
 div.content {
     background-color: silver;
     z-index: 90;
-    padding-top: 0rem;
+    display: flex;
+    padding-top: 2.5rem;
+    width: fit-content;
+}
+
+p {
+    display: block;
+    margin-block-start: 0.2em;
+    margin-block-end: 0.2em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+div.text {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    width: 50%;
 }

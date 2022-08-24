@@ -3,8 +3,14 @@ import React from "react";
 function Title() {
     return (
         <div className="navBar">
-            <div>
-                This is the main header of my page
+            <div className="navItem">
+                item
+            </div>
+            <div className="navItem">
+                item
+            </div>
+            <div className="navItem">
+                item
             </div>
         </div>
     );
