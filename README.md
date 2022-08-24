@@ -15,8 +15,14 @@ git@github.com:newlog16/profoolioProject.git
 ```
 E execute ele em um terminal.
 
-Apos ter sido clonado o repositorio use o comando:
+Apos ter sido clonado o repositorio, navegue para a pasta correta usando o comando:
+```bash
+cd profoolioProject
+```
+Em seguida mude de branch usando o comando:
+
 ```bash
 git checkout master
 ```
+
 Lá estará o codigo do projeto.
