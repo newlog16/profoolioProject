@@ -6,6 +6,11 @@ function Content() {
                 <p>That was a damn headache to finally make it work</p>
                 <p>It goes to show, front-end developers also suffer</p>
             </div>
+            <div className="text">
+                <p>
+                    somethings never change
+                </p>
+            </div>
         </div>
     );
 }

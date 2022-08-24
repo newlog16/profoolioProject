@@ -1,20 +1,23 @@
-import { BrowserRouter } from "react-router-dom"
+import { GrLinkedin, GrGithub } from "react-icons/gr";
 
 function Title() {
     return (
-        <BrowserRouter>
-            <div className="navBar">
-                <div className="navItem">
-                    item
-                </div>
-                <div className="navItem">
-                    item
-                </div>
-                <div className="navItem">
-                    item
-                </div>
-            </div >
-        </BrowserRouter>
+        <div className="navBar">
+            <a
+                href="https://github.com/newlog16"
+                className="navItem">
+                <GrGithub />
+            </a>
+            <div className="navItem">
+                something random
+            </div>
+            <a
+                href="https://www.linkedin.com/in/danielalvesdearaujo/"
+                className="navItem"
+            >
+                <GrLinkedin />
+            </a>
+        </div >
     );
 }
 

@@ -30,3 +30,16 @@ div.text {
     padding-right: 1rem;
     width: 50%;
 }
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: silver;
+}
+
+svg {
+    height: 1.5rem;
+    width: 1.5rem;
+}
