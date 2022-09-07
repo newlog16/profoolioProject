@@ -4,15 +4,16 @@ Esse projeto foi criado com o [Create React App](https://github.com/facebook/cre
 
 ## Como rodar o projeto
 
-Inicialmente rode o comando abaixo no terminal apos ter mudado para esta branch:
+Agora que você esta na branch correta, instale as dependencias do projeto rodando este comando:
 
 ### `npm install`
-Instala as dependencias do projeto.
+
+Agora rode o comando a seguir para rodar o projeto:
 
 ### `npm start`
-Fará com que o aplicativo seja rodado localmente abrindo uma guia no navegador contendo o projeto atual.
+O projeto deve abrir em uma janela do google chrome.
 
 Ou pode ser executado o comando:
 
 ### `code .`
-Caso voce queira olhar o codigo fonte.
+Caso voce queira olhar o codigo do projeto.
